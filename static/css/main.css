@@ -1,0 +1,28 @@
+html {
+    background-color: black;
+  }
+  .first-text {
+      text-align: center;
+      font: 32px Courier;
+      color: #fff;
+      font-weight: 200;
+  }
+  .second-text {
+    text-align: center;
+    font: 32px Courier;
+    color: #fff;
+    font-weight: 200;
+  }
+  .countdown {
+    width: 100%;
+    float: left;
+    margin: 20px auto;
+    font-weight: 900;
+  }
+  
+  .timer {
+    font: 32px Courier;
+    color: #fff;
+    text-align: center;
+    font-weight: 900;
+  }
